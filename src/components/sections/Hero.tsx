@@ -164,7 +164,7 @@ export default function Hero() {
               </motion.a>
 
               <motion.a
-                href="../../../public/Amaljith_PM_Frontend_.pdf"
+                href="/Amaljith_PM_Frontend_.pdf"
                 download
                 className="btn-outline group"
                 whileHover={{ scale: 1.04 }}
@@ -265,7 +265,7 @@ export default function Hero() {
                   }}
                 >
                   <img
-                    src="../../../public/myprofile.png"
+                    src="/myprofile.png"
                     alt="Amaljith PM"
                     className="w-full h-full object-cover"
                   />
